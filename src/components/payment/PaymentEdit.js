@@ -1,5 +1,5 @@
 import React from 'react'
-import {DateInput, Edit, NumberField, NumberInput, SelectInput, SimpleForm, TextInput} from 'react-admin'
+import {DateInput, Edit, NumberField, NumberInput, SelectInput, SimpleForm} from 'react-admin'
 
 const PaymentEdit = (props) => {
     return (
